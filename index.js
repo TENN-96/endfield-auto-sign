@@ -41,7 +41,7 @@ async function autoClaim(profile) {
     "Content-Type": "application/json",
     Referer: "https://game.skport.com/",
     Origin: "https://game.skport.com",
-    "sk-language": "en",
+    "sk-language": "jp",
     "sk-game-role": skGameRole,
     cred,
     platform,
