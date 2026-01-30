@@ -93,7 +93,7 @@ async function main() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         username: "アレッシュ",
-        avatar_url: "https://raw.githubusercontent.com/TENN-96/endfield-auto-sign/main/icon.png",
+        avatar_url: "https://github.com/TENN-96/endfield-auto-sign/blob/main/icon.png?raw=true",
         content,
       }),
     });
