@@ -4,18 +4,18 @@ import fetch from "node-fetch";
 /** ===== 配置区 ===== **/
 const profiles = [
   {
-    cred: "8bgmqfRhtXa6dYJbLeJf9iJyKxmsQdJg",
-    skGameRole: "3_4237585212_2",
-    platform: "3",
-    vName: "1.0.0",
-    accountName: "sub",
-  },
-  {
     cred: "TX12mFTHGXFnRNNDeKsbdHDxOTr5RGmj",
     skGameRole: "3_4957913437_2",
     platform: "3",
     vName: "1.0.0",
     accountName: "main",
+  },
+  {
+    cred: "8bgmqfRhtXa6dYJbLeJf9iJyKxmsQdJg",
+    skGameRole: "3_4237585212_2",
+    platform: "3",
+    vName: "1.0.0",
+    accountName: "sub",
   },
 ];
 
