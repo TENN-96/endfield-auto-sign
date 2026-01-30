@@ -11,7 +11,7 @@ const profiles = [
     accountName: "sub",
   },
   {
-    cred: "KIN5bAFZR8aTZ3dWpM2lJXoF8hrf8XxW",
+    cred: "TX12mFTHGXFnRNNDeKsbdHDxOTr5RGmj",
     skGameRole: "3_4957913437_2",
     platform: "3",
     vName: "1.0.0",
